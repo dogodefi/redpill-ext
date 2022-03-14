@@ -17,10 +17,6 @@
   ],
 
   "kmods": {
-    "udp_tunnel.ko": "",
-    "ip6_udp_tunnel.ko": "",
-    "dca.ko": "",
-    "vxlan.ko": "",
     "ixgbe.ko":""
   },
 

@@ -17,6 +17,8 @@
   ],
 
   "kmods": {
+    "dca.ko": "",
+    "vxlan.ko": "",
     "ixgbe.ko":""
   },
 

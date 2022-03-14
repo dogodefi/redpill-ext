@@ -5,7 +5,7 @@
     {
       "name": "ixgbe-4.4.180plus-broadwellnk.tgz",
       "url": "https://raw.githubusercontent.com/dogodefi/redpill-ext/master/ixgbe/releases/ixgbe-4.4.180plus-broadwellnk.tgz",
-      "sha256": "a46fe29f65a8344bb65d59311dc1bc125042731223a78ca3849ac7e856f8df04",
+      "sha256": "3883a6c39ddd6ff013578dfaa0119a1585fb8d0c492a96333bf0490ae39e7573",
       "packed": true
     },
     {

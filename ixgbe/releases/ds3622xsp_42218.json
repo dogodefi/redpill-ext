@@ -21,6 +21,7 @@
     "ip6_udp_tunnel.ko": "",
     "dca.ko": "",
     "vxlan.ko": "",
+    "mdio.ko": "",
     "ixgbe.ko":""
   },
 
